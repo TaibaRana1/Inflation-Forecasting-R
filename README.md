@@ -4,6 +4,7 @@
 This project builds and compares multiple statistical and machine learning models to forecast inflation using historical macroeconomic data (1980–2024).
 The goal is to evaluate traditional time series methods against regularized regression techniques and determine the most accurate forecasting approach.
 
+
 🎯 Models Implemented
 
 Multiple Linear Regression (Baseline Model)
@@ -22,6 +23,7 @@ Training: 1980–2020
 
 Testing: 2021–2024
 
+
 🔎 Key Steps
 
 Exploratory Data Analysis (boxplots, scatter plots, correlation matrix)
@@ -36,15 +38,20 @@ Residual diagnostics and performance comparison
 
 📊 Evaluation Metrics
 Models were compared using:
+
 MSE
+
 RMSE
+
 MAE
 
 A final combined visualization compares predictions from all models against actual inflation values (2021–2024).
 
+
 🛠 Tools Used
 
 R, forecast, tseries, caret, glmnet, ggplot2
+
 
 💡 Highlights
 
