@@ -19,8 +19,9 @@
 \faculty{Computer Science}
 \degreename{Computer Science}
 \campuscity{Islamabad}
-\authorone{Dania Waseem}{23I-2622}
-\authortwo{Taiba Tariq}{23I-2618}
+
+
+
 
 
 
